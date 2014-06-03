@@ -1,7 +1,10 @@
 Characters
 ==========
 
+Each of the XML files in this directory correspond directly with the Database files used in the game. Please use caution when editing old characters or adding new ones, as a mispelling of any of the node names could cause errors in the game.
+
 char_nameDatabase.xml
+==========
 Example structure of the XML File containing Name data:
 ~~~
 	<Info>
