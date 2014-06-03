@@ -1,0 +1,22 @@
+<Jobs>
+	<Job>
+		<Title>Cook</Title>
+		<History>Worked in New York City\nPrior arrest for thievery</History>
+		<Reason>Moving to Los Angeles</Reason>
+	</Job>
+	<Job>
+		<Title>Police Officer</Title>
+		<Reason>Relocating to San Francisco</Reason>
+	</Job>
+	<Job>
+		<Title>Murderer</Title>
+		<AgeMin>30</AgeMin>
+		<AgeMax>35</AgeMax>
+	</Job>
+	<Job>
+		<Title>Fireman</Title>
+	</Job>
+	<Job>
+		<Title></Title>
+	</Job>
+</Jobs>
