@@ -5,7 +5,9 @@ Each of the XML files in this directory correspond directly with the Database fi
 
 char_nameDatabase.xml
 ==========
-Example structure of the XML File containing Name data:
+The char_nameDatabase.xml file is used to generate the general Character data, as well as optionally used to generate all other data as well. This file is extremely flexible as it allows the simple generation of simple names, gender, and nationality, or the creation of the entire backstory and occupation of a character. It does not, however, allow the customization of any character's clothes, as that is entirely randomized based on Gender and Nationality.
+
+Here is an example structure of this XML file containing a full character's data. Note that some of this information is optional. See below for descriptions of each node.
 ~~~
 	<Info>
 		<Name>Ron Swanson</Name>
@@ -14,8 +16,8 @@ Example structure of the XML File containing Name data:
 		<AgeMax>30</AgeMin>
 		<Nationality>0</Nationality>
 		<Job>Parks &amp; Recreation Officer</Job>
-		<History>Hates people\nHates everything</History>
-		<Reason>Wants to get as far away from people as he can</Reason>
+		<History>Hates people\nHates feelings\nLoves meat and chairs</History>
+		<Reason>Stepped on the wrong train and instantly regretted his decision</Reason>
 	</Info>
 ~~~
 These are the fields that can be used for this file.
