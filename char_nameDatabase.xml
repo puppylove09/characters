@@ -1,0 +1,50 @@
+<Names>
+	<Info>
+		<Name>Ron Burgundy</Name>
+		<Gender>0</Gender>
+		<AgeMin>20</AgeMin>
+		<AgeMax>40</AgeMax>
+		<Nationality>0</Nationality>
+	</Info>
+	<Info>
+		<Name>Ron Swanson</Name>
+		<Gender>0</Gender>
+		<Nationality>0</Nationality>
+		<Job>Parks &amp; Recreation Officer</Job>
+		<History>Hates people\nHates everything</History>
+		<Reason>Wants to get as far away from people as he can</Reason>
+	</Info>
+	<Info>
+		<Name>Rey Mysterio</Name>
+		<Gender>0</Gender>
+		<Nationality>5</Nationality>
+		<Job>WWE Fighter</Job>
+	</Info>
+	<Info>
+		<Name>Michael Scott</Name>
+		<Gender>0</Gender>
+		<Nationality>0</Nationality>
+	</Info>
+	<Info>
+		<Name>Ed Sheeran</Name>
+		<Gender>1</Gender>
+		<Nationality>2</Nationality>
+	</Info>
+	<Info>
+		<Name>Avicii</Name>
+		<Gender>0</Gender>
+		<Nationality>4</Nationality>
+	</Info>
+	<Info>
+		<Name>Holly Flax</Name>
+		<Gender>1</Gender>
+		<Nationality>0</Nationality>
+	</Info>
+	<Info>
+		<Name>Mindy Kaling</Name>
+		<Gender>1</Gender>
+		<AgeMin>18</AgeMin>
+		<AgeMax>30</AgeMax>
+		<Nationality>3</Nationality>
+	</Info>
+</Names>
