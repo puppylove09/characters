@@ -9,14 +9,38 @@
 		<Reason>Relocating to San Francisco</Reason>
 	</Job>
 	<Job>
-		<Title>Murderer</Title>
-		<AgeMin>30</AgeMin>
-		<AgeMax>35</AgeMax>
+		<Title>Police Officer</Title>
+	</Job>
+	<Job>
+		<Title>Retired Police Officer</Title>
+		<AgeMin>65</AgeMin>
+		<AgeMax>65</AgeMax>
+		<History>On the NYPD for 30 years\nDishonorably discharged for fraud</History>
+		<Reason>Getting away from New York City</Reason>
+	</Job>
+	<Job>
+		<Title>Gambler</Title>
+		<AgeMin>21</AgeMin>
+		<AgeMax>30</AgeMax>
 	</Job>
 	<Job>
 		<Title>Fireman</Title>
 	</Job>
 	<Job>
-		<Title></Title>
+		<Title>Actor</Title>
+	</Job>
+	<Job>
+		<Title>Retired</Title>
+	</Job>
+	<Job>
+		<Title>Artist</Title>
+	</Job>
+	<Job>
+		<Title>Musician</Title>
+		<History>Traveling musician with his band\nBand broke up and performs solo now</History>
+		<Reason>Traveling to Los Angeles to play solo concerts</Reason>
+	</Job>
+	<Job>
+		<Title>Musician</Title>
 	</Job>
 </Jobs>
