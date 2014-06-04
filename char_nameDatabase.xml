@@ -47,4 +47,12 @@
 		<AgeMax>30</AgeMax>
 		<Nationality>3</Nationality>
 	</Info>
+	<Info>
+		<Name>Jennifer Duong</Name>
+		<Gender>1</Gender>
+		<AgeMin>19</AgeMin>
+		<AgeMax>19</AgeMax>
+		<Nationality>4</Nationality>
+		<Job>Student</Job>
+	</Info>
 </Names>
