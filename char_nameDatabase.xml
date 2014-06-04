@@ -1,58 +1,57 @@
 <Names>
 	<Info>
-		<Name>Ron Burgundy</Name>
+		<Name>Ron Swanson</Name>
 		<Gender>0</Gender>
 		<AgeMin>20</AgeMin>
 		<AgeMax>40</AgeMax>
 		<Nationality>0</Nationality>
-	</Info>
-	<Info>
-		<Name>Ron Swanson</Name>
-		<Gender>0</Gender>
-		<Nationality>0</Nationality>
+		<Hometown>Pawnee</Hometown>
 		<Job>Parks &amp; Recreation Officer</Job>
 		<History>Hates people\nHates everything</History>
 		<Reason>Wants to get as far away from people as he can</Reason>
 	</Info>
 	<Info>
-		<Name>Rey Mysterio</Name>
-		<Gender>0</Gender>
-		<Nationality>5</Nationality>
-		<Job>WWE Fighter</Job>
-	</Info>
-	<Info>
-		<Name>Michael Scott</Name>
-		<Gender>0</Gender>
-		<Nationality>0</Nationality>
-	</Info>
-	<Info>
-		<Name>Ed Sheeran</Name>
+		<Name>Eliza Sanders</Name>
 		<Gender>1</Gender>
-		<Nationality>2</Nationality>
-	</Info>
-	<Info>
-		<Name>Avicii</Name>
-		<Gender>0</Gender>
-		<Nationality>4</Nationality>
-	</Info>
-	<Info>
-		<Name>Holly Flax</Name>
-		<Gender>1</Gender>
-		<Nationality>0</Nationality>
-	</Info>
-	<Info>
-		<Name>Mindy Kaling</Name>
-		<Gender>1</Gender>
-		<AgeMin>18</AgeMin>
+		<AgeMin>30</AgeMin>
 		<AgeMax>30</AgeMax>
-		<Nationality>3</Nationality>
+		<Nationality>0</Nationality>
+		<Hometown>Boston</Hometown>
+		<Job>University Professor</Job>
+		<History>Teaches molecular science\nBelieves the body is the cure for everything</History>
+		<Reason>Transferring to a new University</Reason>
 	</Info>
 	<Info>
-		<Name>Jennifer Duong</Name>
-		<Gender>1</Gender>
-		<AgeMin>19</AgeMin>
-		<AgeMax>19</AgeMax>
-		<Nationality>4</Nationality>
-		<Job>Student</Job>
+		<Name>The Amazing Cazeel</Name>
+		<Gender>0</Gender>
+		<AgeMin>32</AgeMin>
+		<AgeMax>32</AgeMax>
+		<Nationality>0</Nationality>
+		<Hometown>New Orleans</Hometown>
+		<Job>Magician</Job>
+		<History>Has loved magic his whole life\nWants nothing more than to entertain people</History>
+		<Reason>Traveling and working to make a name for himself</Reason>
+	</Info>
+	<Info>
+		<Name>Mr. Nickle</Name>
+		<Gender>0</Gender>
+		<AgeMin>50</AgeMin>
+		<AgeMax>50</AgeMax>
+		<Nationality>3</Nationality>
+		<Hometown>Munich</Hometown>
+		<Job>Circus Scout</Job>
+		<History>Owner of a once great circus\nBusiness is dying out</History>
+		<Reason>Traveling to find new circus talent and performers</Reason>
+	</Info>
+	<Info>
+		<Name>Smith</Name>
+		<Gender>0</Gender>
+		<AgeMin>52</AgeMin>
+		<AgeMax>52</AgeMax>
+		<Nationality>0</Nationality>
+		<Hometown>Scranton</Hometown>
+		<Job>Coal Supervisor</Job>
+		<History>Loves coal</History>
+		<Reason>Works on the train</Reason>
 	</Info>
 </Names>
