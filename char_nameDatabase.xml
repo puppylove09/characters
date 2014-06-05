@@ -55,3 +55,23 @@
 		<Reason>Works on the train</Reason>
 	</Info>
 </Names>
+                <Name>Ellie Larson</Name>
+		<Gender>1</Gender>
+		<AgeMin>33</AgeMin>
+		<AgeMax>33</AgeMax>
+		<Nationality>1</Nationality>
+		<Hometown>Chicago</Hometown>
+		<Job>Tour Guide</Job>
+		<History>Loves History</History>
+		<Reason>Sight-seeing</Reason>
+	</Info>
+	<Info>	
+		<Name></Name>
+		<Gender>1</Gender>
+		<AgeMin>33</AgeMin>
+		<AgeMax>33</AgeMax>
+		<Nationality>1</Nationality>
+		<Hometown>Baltimore</Hometown>
+		<Job>Tour Guide</Job>
+		<History>Loves History</History>
+		<Reason>Sight-seeing</Reason>
