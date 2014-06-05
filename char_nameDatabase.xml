@@ -55,3 +55,70 @@
 		<Reason>Works on the train</Reason>
 	</Info>
 </Names>
+
+                <Name>St. Joseph Danely</Name>
+		<Gender>0</Gender>
+		<AgeMin>30</AgeMin>
+		<AgeMax>30</AgeMax>
+		<Nationality>0</Nationality>
+		<Hometown>Boston</Hometown>
+		<Job>Soldier in the American army</Job>
+		<History>Has been in the army for ten years</History>
+		<Reason>Finally coming home from the battle fronts</Reason>
+        </Info>		
+	<Info>	
+                <Name>David Freeman</Name>
+		<Gender>0</Gender>
+		<AgeMin>38</AgeMin>
+		<AgeMax>38</AgeMax>
+		<Nationality>0</Nationality>
+		<Hometown>Indiana</Hometown>
+		<Job>Traveling Salesman</Job>
+		<History>Sells kitchen products to provide for his family</History>
+		<Reason>Selling kitchen products on the train</Reason>
+	</Info>
+	<Info>	
+	        <Name>Jack Bains</Name>
+		<Gender>0</Gender>
+		<AgeMin>36</AgeMin>
+		<AgeMax>36</AgeMax>
+		<Nationality>0</Nationality>
+		<Hometown>Ohio</Hometown>
+		<Job>Buisness Man</Job>
+		<History>Working hard to get to the top of his comapny</History>
+		<Reason>Meeting some big potential clients</Reason>
+	</Info>
+	<Info>	
+		<Name>Summer Breeze</Name>
+		<Gender>1</Gender>
+		<AgeMin>24</AgeMin>
+		<AgeMax>24</AgeMax>
+		<Nationality>0</Nationality>
+		<Hometown>Minnesota</Hometown>
+		<Job>Hippie</Job>
+		<History>Completely against the goverment and wants a world with no rules</History>
+		<Reason>Going to a rally to protest war</Reason>
+	</Info>
+	<Info>	
+		<Name>Lily Peterson</Name>
+		<Gender>1</Gender>
+		<AgeMin>24</AgeMin>
+		<AgeMax>24</AgeMax>
+		<Nationality>0</Nationality>
+		<Hometown>Arkansas</Hometown>
+		<Job>Elementary Teacher</Job>
+		<History>Never thought she would ever find love</History>
+		<Reason>Recently married and going on her honeymooon</Reason>
+	</Info>
+	<Info>	
+		<Name>Peter Peterson</Name>
+		<Gender>0</Gender>
+		<AgeMin>31</AgeMin>
+		<AgeMax>31</AgeMax>
+		<Nationality>0</Nationality>
+		<Hometown>Michigan</Hometown>
+		<Job>Owner of four car dealerships</Job>
+		<History>Has been looking for the rght girl for a long time</History>
+		<Reason>Recently married and going on his honeymooon</Reason>
+		
+		
